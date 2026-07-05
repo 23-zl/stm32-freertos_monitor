@@ -1,0 +1,32 @@
+# Keil 编译输出
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.lnp
+*.axf
+*.hex
+*.bin
+*.build_log.htm
+*.lst
+*.map
+*.iex
+
+# Keil 工程临时文件
+*.uvguix.*
+*.scvd
+JLinkSettings.ini
+DebugConfig/
+Listings/
+Objects/
+RTE/
+
+# STM32CubeMX 临时文件夹
+.cproject
+.project
+.settings/
+Debug/
+
+
+
